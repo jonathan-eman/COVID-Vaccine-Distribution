@@ -2,7 +2,7 @@
 
 As part of a course on database design and management, I worked with a team to develop a strategy that the Virginia Department of Health could implement to improve the efficiency of COVID-19 vaccine rollout and design a corresponding database to manage vaccine data. We then posed 6 theoretical questions that could help the VDH better understand where vaccine rollout efforts were lacking and wrote SQL queries to demonstrate how our database could answer the questions.
 
-In this repository, you can find the slide deck that my team presented to our class, as well as the SQL script that creates the database and answers the questions. 
+In this repository, you can find the [slide deck](https://github.com/jonathan-eman/COVID-Vaccine-Distribution/blob/main/Database%20Design%20to%20Streamline%20COVID-19%20Vaccination%20Methods%20in%20Virginia.pdf) that my team presented to our class, as well as the SQL [script](https://github.com/jonathan-eman/COVID-Vaccine-Distribution/blob/main/s2_g6_project.sql) that creates the database and answers the questions. 
 
 The following questions were answered:
 1. How many days will it take to vaccinate 75% of each Health District with one dose?
